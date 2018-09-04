@@ -1,4 +1,4 @@
-You are on the command line. You are in a certain folder of your file system.
+You are on the command line (of Ubuntu Linux). You are in a certain folder of your file system.
 What can you see from here?
 
 ## Where am I?
