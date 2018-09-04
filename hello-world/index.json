@@ -1,11 +1,11 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Beginning Command Line",
+  "description": "When you are using Linux or MacOS you can profit from command line knowledeg. click less, type more!",
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
+      "title": "Step 1 - look around",
       "text": "step1.md"
     }],
     "intro": {
@@ -18,7 +18,7 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nWe wish you good fortune in the wars to come\u001b[m\r\n"
+    "uimessage1": "\u001b[32mYour Interactive Terminal.\u001b[m\r\n"
   },
   "backend": {
     "imageid": "bash"
