@@ -1,6 +1,10 @@
 You are on the command line. You are in a certain folder of your file system.
 What can you see from here?
 
+## Where am I?
+
+`pwd`{{execute}}
+
 ## Look around
 
 To list the files and folders around you, use the
